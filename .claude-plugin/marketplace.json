@@ -1,5 +1,5 @@
 {
   "name": "desk-pet",
-  "owner": { "name": "local" },
+  "owner": { "name": "19856706559tmk-boop", "url": "https://github.com/19856706559tmk-boop" },
   "plugins": [{ "name": "desk-pet-bridge", "source": "./mod" }]
 }
