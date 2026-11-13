@@ -1,0 +1,19 @@
+# 运行时自动生成的数据文件
+quota.json
+activity.json
+bridge.json
+launch-error.json
+pet.log
+
+# 本机配置（第一次使用请从 config.example.json 复制一份再改）
+config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统杂物
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,5 @@
+{
+  "name": "desk-pet",
+  "owner": { "name": "local" },
+  "plugins": [{ "name": "desk-pet-bridge", "source": "./mod" }]
+}

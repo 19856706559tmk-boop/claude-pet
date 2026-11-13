@@ -1,0 +1,5 @@
+{
+  "name": "desk-pet-bridge",
+  "version": "0.1.0",
+  "description": "把额度和 Claude 的活动写给桌面宠物，并在会话开始时启动宠物"
+}
